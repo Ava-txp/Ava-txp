@@ -1,6 +1,13 @@
 <div align="center">
+<img
+  align="center"
+  src="./assets/figures/programmer.png"
+  width="400"
+  alt="女程序员"
+/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=22&pause=1200&color=4F8CF7&center=true&vCenter=true&width=720&lines=Keep+learning.+Keep+building." alt="Keep learning. Keep building." />
+
 
 </div>
 
