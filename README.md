@@ -51,6 +51,13 @@
 
 <br clear="right"/>
 
+<img
+  align="center"
+  src="./assets/works/jdPages.png"
+  width="800"
+  alt="京东百宝箱频道"
+/>
+
 ## 🧩 Featured Projects
 
 ### 🤖 行程规划 Agent
