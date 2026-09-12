@@ -78,6 +78,8 @@
 
 参与桌面建模应用的界面与交互设计，实现三维模型实时渲染、Canvas 手绘建模与多语言支持。通过 Web Worker + WebAssembly 将 G-code 解析等高计算量任务移出主线程，改善大模型下的界面卡顿。产品已服务国内外超千名用户。
 
+[![Clayon 项目演示](./assets/works/clayon-cover.png)](./assets/works/video-clayon.mp4)
+
 ### 🌐 前端路由与流量治理系统
 
 `MidwayJS` `Koa` `TypeORM` `MySQL` `Bottleneck` `Opossum`
